@@ -1,0 +1,2 @@
+kacper;100
+jarek;-7
